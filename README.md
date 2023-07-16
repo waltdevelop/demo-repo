@@ -1,3 +1,3 @@
 # Demo
 
-Thi filiss for demonstration
+This is the description of the demonstration
